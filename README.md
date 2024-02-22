@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am Spider-man**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
