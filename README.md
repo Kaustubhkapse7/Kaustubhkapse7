@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
-<h3 align="center"> *[Spider-man theme song playing...]* </h3>
+<h3 align="center"> I love Friday </h3>
 
 - 👨‍💻 All of my projects are available at [Not completed](Soon)
 
