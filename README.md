@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
-<h3 align="center"> I love Friday </h3>
+<h3 align="center"> Hmmm... </h3>
 
-- 👨‍💻 All of my projects are available at [Not completed](Soon)
+- 👨‍💻 All of my projects are available at [Not completed]
 
-- 💬 Ask me about **Web development**
+- ✨ descent **Web developer**
 
-- 📫 How to reach me **Kaustubhkapse07@gmail.com**
+- 📫 contact **Kaustubhkapse07@gmail.com**
 
-- ⚡ Fun fact **I am Spider-man**
+- ⚡ Fun fact **eeaaoo**
 
 
 <p align="left">
