@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
-<h3 align="center"> Hmmm... </h3>
+<h3 align="center"> Part time web dev ☕ </h3>
 
 - 👨‍💻 All of my projects are available at [Not completed]
 
