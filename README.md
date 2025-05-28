@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
 <h3 align="center"> Part time web dev ☕ </h3>
 
-- 👨‍💻 All of my projects are available at [Not completed]
+- 👨‍💻 portfolio **https://fwkaustubh.netlify.app/**
 
 - ✨ descent **Web developer**
 
