@@ -9,7 +9,7 @@
 
 - 📫 contact **Kaustubhkapse07@gmail.com**
 
-- ⚡ profile https://guns.lol/kaustubh__
+- ⚡ profile https://guns.lol/kaustubh_ 
 
 
 <p align="left">
